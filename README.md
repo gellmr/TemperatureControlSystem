@@ -1,14 +1,12 @@
 # TemperatureControlSystem
 Arduino Uno Project
 
----
-## Climate Control System
----
+### Climate Control System
 
 Created      28 Sep 2011
 Last change  1  Oct 2011
 
-### Specifications:
+#### Specifications:
 
 The system should monitor the temperature of the room.
 
