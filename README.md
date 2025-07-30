@@ -27,3 +27,5 @@ Use different fan speeds depending on the temperature by pulsing the fan.
 Use a potentiometer as a calibration mechanism.
 
 It should only work when the lights are on, using a LDR.
+
+![alt text](https://github.com/gellmr/TemperatureControlSystem/blob/main/Breadboard%20Design.png)
